@@ -40,12 +40,12 @@ body {
 }
 
 .schoolinfo {
-    width: 600px;
-    height: 500px;
+    width: 500px;
+    height: 400px;
 }
 
 .projpic {
-    height: 50%;
+    height: 50vh;
 }
 
 #project-info {
@@ -62,4 +62,9 @@ body {
 
 #footer {
     background-color: #002540;
+    
+}
+
+#follow {
+    font-weight: bold;
 }
